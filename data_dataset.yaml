@@ -1,0 +1,5 @@
+train: D:\code\yolov8\dataset\train\images\
+val: D:\code\yolov8\dataset\valid\images\
+test: D:\code\yolov8\dataset\test\image\s
+nc: 3
+names: ['Cellphone', 'Cup', 'Goggles']

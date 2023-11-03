@@ -1,0 +1,7 @@
+train: D:\talha\Item\new_final\train\images
+val: D:\talha\Item\new_final\valid\images
+test: D:\talha\Item\new_final\test\images
+
+nc: 5
+names: ['Cellphone', 'Chair', 'Cup', 'Goggles', 'Keyboard']
+
