@@ -1,6 +1,6 @@
-train: D:\talha\Item\new_final\train\images
-val: D:\talha\Item\new_final\valid\images
-test: D:\talha\Item\new_final\test\images
+train: D:\code\yolov8-custom-training\Dataset_TD_Items_5_Cls/train/images
+val: D:\code\yolov8-custom-training\Dataset_TD_Items_5_Cls/valid/images
+test: D:\code\yolov8-custom-training\Dataset_TD_Items_5_Cls/test/images
 
 nc: 5
 names: ['Cellphone', 'Chair', 'Cup', 'Goggles', 'Keyboard']
