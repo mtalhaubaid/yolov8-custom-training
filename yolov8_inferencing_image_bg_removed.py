@@ -60,7 +60,7 @@ def get_image_colors(image_path, number_of_colors=8, show_chart=True):
 
 
 
-input_image = Image.open(r"grey.jpg")
+input_image = Image.open(r"C:\Users\ASDF\Downloads\red car.jpg")
 results = model.predict(source=input_image,conf=0.5, show=True,save=False) # source already setup
 
 Object_boxes = results[0].boxes.data.cpu().numpy()
